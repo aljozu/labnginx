@@ -1,0 +1,15 @@
+{
+  "_id": {
+    "$oid": "646938d1c6ca764a36cd3a4c"
+  },
+  "country": "PE",
+  "valor": 10
+}
+
+{
+  "_id": {
+    "$oid": "646938eec6ca764a36cd3a4d"
+  },
+  "country": "CO",
+  "valor": 12
+}
